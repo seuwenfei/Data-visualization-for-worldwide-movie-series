@@ -1,4 +1,4 @@
-# Data-visualization-for-worldwide-movie-series
+# Data Visualization for Worldwide Movie Series
 
 ## Introduction
 With the growing popularity of youtube, amazon, netflix and more internet-hosting video sites, everyone has probably heard the term "web series". Web series are like TV shows, with the exception that each episode (or "webisode") broadcast online rather than on your television. The objective of this notebook is **to represent information graphically, highlighting patterns and trends in data and helping to gain quick insights**. The dataset is collected from Kaggle, which contains  more than 3000 series that were scrapped from 100 web pages.
