@@ -16,12 +16,12 @@ The dataset consists of 9 variables:
 * **Votes**: how many individuals vote for a series 
 
 
-### Python Libaries
+### Python Libraries
 pandas, numpy, seaborn, matplotlip
 
 ![combine_images](https://user-images.githubusercontent.com/118715799/210947703-b2e2d4f5-6c59-434d-83ee-9664b23df80e.jpg)
 
-Read the complete Data Visualization for Worldwide Movie Series project in [here](https://github.com/seuwenfei/Data-visualization-for-worldwide-movie-series/blob/main/data-visualization-for-worldwide-movie-series.ipynb).
+Read the complete Data Visualization for Worldwide Movie Series project [here](https://github.com/seuwenfei/Data-visualization-for-worldwide-movie-series/blob/main/data-visualization-for-worldwide-movie-series.ipynb).
 
 ## Conclusion
 The following series are more likely to receive high or very high ratings:
