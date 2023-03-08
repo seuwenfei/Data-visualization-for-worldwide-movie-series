@@ -17,7 +17,7 @@ The dataset consists of 9 variables:
 
 
 ### Python Libraries
-pandas, numpy, seaborn, matplotlip, wordcloud
+pandas, numpy, seaborn, matplotlib, wordcloud
 
 ![combine_images](https://user-images.githubusercontent.com/118715799/210947703-b2e2d4f5-6c59-434d-83ee-9664b23df80e.jpg)
 
